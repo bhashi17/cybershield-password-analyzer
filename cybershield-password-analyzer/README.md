@@ -23,7 +23,7 @@ A professional cybersecurity web application that evaluates password strength in
 ## 🖥️ Screenshots
 
 ![CyberShield Preview](screenshots/preview.png)
-
+![alt text](image-1.png)
 ---
 
 ## 🛠️ Installation
